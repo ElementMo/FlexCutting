@@ -1,0 +1,8 @@
+﻿     Creating library ./../../../lib/win64/NvFlexExtReleaseD3D_x64.lib and object ./../../../lib/win64/NvFlexExtReleaseD3D_x64.exp
+  Generating code
+  All 1869 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+LINK : warning LNK4199: /DELAYLOAD:d3d11.dll ignored; no imports found from d3d11.dll
+LINK : warning LNK4199: /DELAYLOAD:d3d12.dll ignored; no imports found from d3d12.dll
+  flexExtD3D.vcxproj -> C:\Users\Eleme\Desktop\Flex\FlexCutting\extensions\compiler\vc14win64\./../../../bin/win64\NvFlexExtReleaseD3D_x64.dll
+  flexExtD3D.vcxproj -> ./../../../bin/win64\/NvFlexExtReleaseD3D_x64.dll.pdb (Full PDB)

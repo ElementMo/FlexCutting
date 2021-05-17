@@ -1,0 +1,2 @@
+^C:\USERS\ELEME\DESKTOP\FLEX\FLEX-1.1.0\EXTENSIONS\CUDA\FLEXEXT.CU
+"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\bin\nvcc.exe" -g -G --compiler-bindir="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\bin" --compiler-options=/MTd,/Zi -I"..\..\.." -D_ITERATOR_DEBUG_LEVEL=0 -DCUDA -arch=sm_30 -prec-div=false -prec-sqrt=false -ftz=true -use_fast_math -c ..\..\cuda\flexExt.cu -o ./x64/flexExtCUDA/debug/cuda/flexExt.obj

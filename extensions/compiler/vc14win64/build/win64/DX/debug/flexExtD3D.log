@@ -1,0 +1,36 @@
+﻿  compilation header save succeeded; see C:\Users\Eleme\Desktop\Flex\FleX-1.1.0\extensions\dx\shaders\flexExt.UpdateForceFields.h
+  sdf.cpp
+..\..\..\core\sdf.cpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  voxelize.cpp
+  maths.cpp
+  aabbtree.cpp
+  flexExt.cpp
+c:\users\eleme\desktop\flex\flex-1.1.0\src\dx\context\../../../external/nvapi/include/nvShaderExtnEnums.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\users\eleme\desktop\flex\flex-1.1.0\external\nvapi\include\nvapi_lite_salstart.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\users\eleme\desktop\flex\flex-1.1.0\external\nvapi\include\nvapi_lite_common.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\users\eleme\desktop\flex\flex-1.1.0\external\nvapi\include\nvapi_lite_salstart.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\users\eleme\desktop\flex\flex-1.1.0\external\nvapi\include\nvapi_lite_salend.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\users\eleme\desktop\flex\flex-1.1.0\external\nvapi\include\nvapi_lite_sli.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\users\eleme\desktop\flex\flex-1.1.0\external\nvapi\include\nvapi_lite_salstart.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\users\eleme\desktop\flex\flex-1.1.0\external\nvapi\include\nvapi_lite_salend.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\users\eleme\desktop\flex\flex-1.1.0\external\nvapi\include\nvapi_lite_surround.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\users\eleme\desktop\flex\flex-1.1.0\external\nvapi\include\nvapi_lite_salstart.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\users\eleme\desktop\flex\flex-1.1.0\external\nvapi\include\nvapi_lite_salend.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\users\eleme\desktop\flex\flex-1.1.0\external\nvapi\include\nvapi_lite_stereo.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\users\eleme\desktop\flex\flex-1.1.0\external\nvapi\include\nvapi_lite_salstart.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\users\eleme\desktop\flex\flex-1.1.0\external\nvapi\include\nvapi_lite_salend.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\users\eleme\desktop\flex\flex-1.1.0\external\nvapi\include\nvapi_lite_d3dext.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\users\eleme\desktop\flex\flex-1.1.0\external\nvapi\include\nvapi_lite_salstart.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\users\eleme\desktop\flex\flex-1.1.0\external\nvapi\include\nvapi_lite_salend.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\users\eleme\desktop\flex\flex-1.1.0\external\nvapi\include\nvapi_lite_salend.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  flexExtCloth.cpp
+  flexExtRigid.cpp
+  flexExtSoft.cpp
+  flexExtMovingFrame.cpp
+  flexExtContainer.cpp
+  Generating Code...
+     Creating library ./../../../lib/win64/NvFlexExtDebugD3D_x64.lib and object ./../../../lib/win64/NvFlexExtDebugD3D_x64.exp
+LINK : warning LNK4199: /DELAYLOAD:d3d11.dll ignored; no imports found from d3d11.dll
+LINK : warning LNK4199: /DELAYLOAD:d3d12.dll ignored; no imports found from d3d12.dll
+  flexExtD3D.vcxproj -> C:\Users\Eleme\Desktop\Flex\FleX-1.1.0\extensions\compiler\vc14win64\./../../../bin/win64\NvFlexExtDebugD3D_x64.dll
+  flexExtD3D.vcxproj -> ./../../../bin/win64\/NvFlexExtDebugD3D_x64.dll.pdb (Full PDB)
